@@ -1,7 +1,7 @@
 # file_manager
 a simple file manager on terminal
 
-#screen shots
+#screenshots
 <img src="1 .png" width="100%"></img>
 
 
