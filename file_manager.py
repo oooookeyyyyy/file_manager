@@ -256,7 +256,7 @@ while True :
         dirs , files = show_list(root)
 
     elif select in files :
-        system('start \"'+root+'\\'+select+'\"')
+        system('\"'+root+'\\'+select+'\"\n')
 
     else :
         print(Fore.RED+'\n NO SucH A FilE OR DirectorY!\n')
