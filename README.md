@@ -3,4 +3,4 @@ a simple file manager on terminal
 
 # screenshots
 
-<img src="2.png" width="100%"></img>
+<img src="screenshot.png" width="100%"></img>
